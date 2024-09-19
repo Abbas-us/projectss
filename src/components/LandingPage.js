@@ -9,12 +9,7 @@ const LandingPage = () => {
       image: "https://as1.ftcdn.net/v2/jpg/02/59/31/70/1000_F_259317013_nJJaBgGGzvXMd6cAyLd6yMJtbdnd61wk.jpg", // Use actual image link or local image
       link: " https://todo-delta-virid.vercel.app/"
     },
-    {
-      title: "NEWS App",
-      description: "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      image: "https://cdn.pixabay.com/photo/2017/06/26/19/03/news-2444778_1280.jpg", // Use actual image link or local image
-      link: " https://newsapi-jet.vercel.app"
-    },
+   
     {
       title: "Weather App",
       description: "covers the state of the atmosphere at a specific time and place, including temperature, wind, precipitation, and cloud cover.",
